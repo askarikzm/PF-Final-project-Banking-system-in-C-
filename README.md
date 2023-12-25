@@ -1,6 +1,4 @@
 # PF-Final-project
-<h2> Project details and functionality </h2>
-</br>
 <h2>Project Functionality</h2>
 <h2 >
 Sign Up: Allows new users to create accounts with unique IDs, names, and PINs.</br>
@@ -11,3 +9,17 @@ Check Balance: Displays the current account balance.</br>
 Transfer Amount: Transfers money between accounts.</br>
 Logout: Securely ends the user's session.</br>
 </h2>
+<h1>>key feature </br></h1>
+<h2> Data Handling in Excel</h2></br>
+<div align="start">
+  <img src="https://github.com/askarikzm/PROJECT_X/assets/75198639/04447729-0a72-4a15-98ef-f476a12a1685" alt="Google Excel" width="100" style="margin-right: 10px;">
+</div>
+</br>
+<h1>
+ Project Makers </br> </h1><h2>
+- Sabir Ali(232380) </br>
+- Syed Muhammad Askari(232386)</br></h2><h1>
+Summited to</br> </h1><h2>
+- Mam Iqra </br></h2>
+<h1> Air University Islamabad </br></h1>
+
