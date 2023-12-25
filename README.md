@@ -3,7 +3,7 @@
 </br>
 <h2>Project Functionality</h2>
 </br>
-<h2 style="color: blue;>
+<h2 >
 Sign Up: Allows new users to create accounts with unique IDs, names, and PINs.
 Sign In: Enables existing users to access their accounts with their ID and PIN.
 Deposit Cash: Adds funds to the user's account balance.
