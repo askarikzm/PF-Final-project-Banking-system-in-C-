@@ -2,7 +2,6 @@
 <h2> Project details and functionality </h2>
 </br>
 <h2>Project Functionality</h2>
-</br>
 <h2 >
 Sign Up: Allows new users to create accounts with unique IDs, names, and PINs.
 Sign In: Enables existing users to access their accounts with their ID and PIN.
