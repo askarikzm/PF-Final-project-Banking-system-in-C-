@@ -7,6 +7,7 @@ Deposit Cash: Adds funds to the user's account balance.</br>
 Withdraw Money: Deducts funds from the user's account balance.</br>
 Check Balance: Displays the current account balance.</br>
 Transfer Amount: Transfers money between accounts.</br>
+Change Pin .</br>
 Logout: Securely ends the user's session.</br>
 </h2>
 <h1>>key feature </br></h1>
