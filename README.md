@@ -1,4 +1,7 @@
 # PF-Final-project
+<h2>
+ <a href="https://www.canva.com/design/DAF4TO6_xFM/W0d9GRNisAP-URzN4I4LMg/view?utm_content=DAF4TO6_xFM&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">Visit slide of code</a>
+</h2>
 <h2>Project Functionality</h2>
 <h2 >
 Sign Up: Allows new users to create accounts with unique IDs, names, and PINs.</br>
